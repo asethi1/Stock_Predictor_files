@@ -75,10 +75,14 @@ public class DataLoader {
 		System.out.println("open_Value Total is: "+sum1+" close_Value Total is:"+sum2);
 	}
 	
-	
 	/*
 	* check overall stock_Volume VS Price trend here. If price & Volume both going up MEANS many people putting money into Stock, 
 	* Otherwise IF Volume is going up & price is going down MEANS many people taking money out of Stock.
+	* 
+	* if volume and price going up 	--> 	Good 
+	* If volume going up and price coming down --> Bad
+	* If volume going up and price coming down --> Bad
+	* If volume and price going down --> Bad
 	*/
 	
 	public static void compareVolume() throws Exception{
