@@ -1,0 +1,11 @@
+use cases
+1. inc volume & inc price --> more people are putting in money for this stock. Good for the stock.
+
+2. inc volume & dec price --> more people are trading or pulling money out of this stock. Bad for the stock.
+
+3. dec volume & inc price --> shows lack of interest from people. Might be a signal for a reversal soon. 
+ http://www.investopedia.com/articles/technical/02/010702.asp
+
+4. dec volume & dec price --> Not many people interested in stock . Too bad for stock. 
+
+  
